@@ -7,7 +7,6 @@ public class Main {
         printArray(arrS);
         int[] arr = randomArray(10);
         printArray(arr);
-        System.out.println("Hello world!");
     }
 
     //Task 1-консольный ввод только элементов массива
